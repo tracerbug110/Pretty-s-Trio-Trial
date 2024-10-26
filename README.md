@@ -30,7 +30,7 @@ WINDOWS:
 java --module-path [FILEPATH] --add-modules javafx.controls -jar Pretty's_Trio_Trial.jar
 
 MACOS:
-java --module-path [FILEPATH] --add-modules javafx.controls -jar Pretty\'s_Trio_Trial.jar
+java --module-path [FILEPATH] --add-modules javafx.controls -jar Pretty\\'s_Trio_Trial.jar
 
 I belive the text for Linux is the same as MacOS, but I'm not sure.
 Press enter/return and if everything was done correctly, the game should open up momentarily!
