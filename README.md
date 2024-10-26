@@ -17,7 +17,7 @@ https://gluonhq.com/products/javafx/
 
 Once it's installed, you'll get a zipped folder. Open it to find the SDK folder. Move this somewhere easy to find.
 
-Step 3: Locate the bin folder within the folder you just installed. Once you find it, take note of it's file path, perhaps copy it into a text file. At the end of your path, add a "\" or "/" depending on your OS. Let's refer to this path as [FILEPATH].
+Step 3: Locate the bin folder within the folder you just installed. Once you find it, take note of it's file path, perhaps copy it into a text file. At the end of your path, add a "\\" or "/" depending on your OS. Let's refer to this path as [FILEPATH].
 
 Step 4: Install the game, specifically, the .jar file, and place it somewhere easy to access. Why follow my garbage instructions for nothing?
 
